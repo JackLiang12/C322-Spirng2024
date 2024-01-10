@@ -22,7 +22,7 @@ public class TestDrive {
         int[] expected3 = {0,1};
 
         System.out.println(Arrays.equals(expected3,Problems.problem1(nums3,target)));
-
+        System.out.println("testing git");
     }
 
 
